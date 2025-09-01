@@ -6,9 +6,9 @@
 # Tahapan kombinasi image dan text
 1. membuat dua file praktikum, yang menyimpan text dan gambar logo poliwangi 
 2. file dengan nama praktikum_text : menyimpan teks "welcome to politeknik negeri banyuwangi"
-![alt text](image.png)
+<img width="986" height="343" alt="Screenshot 2025-09-01 185739" src="https://github.com/user-attachments/assets/3daba708-ace1-46a2-ba92-bbd10d688c0d" />
 3. file dengan nama praktikum_Image : menyimpan gambar logo politeknik negeri banyuwangi
-![alt text](image-1.png)
+<img width="648" height="320" alt="Screenshot 2025-09-01 190943" src="https://github.com/user-attachments/assets/079aeedf-e59e-4009-bf3d-09d49aec76ae" />
 4. file main :
 di bagian child menggunakan column karena digunakan untuk menyusun widget dengan vertikal atas bawah, hasilnya logo ada dibawah teks
 bagian home diisi dengan warna dari background
